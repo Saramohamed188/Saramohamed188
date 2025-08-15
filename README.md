@@ -37,12 +37,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saramohamed188&layout=compact&theme=radical" height="180"/>
 </p>
 
----
-
-### 🚀 Featured Projects
-- 🧠 **Gender Detection using CNN** – Achieved 97% accuracy in classification.  
-- 📊 **Coffee Shop Sales Dashboard (Excel)** – Interactive dashboard with PivotTables & Slicers.  
-- 📱 **Mobile App Prototype** – Built during ITI Mobile Development track.  
 
 ---
 
