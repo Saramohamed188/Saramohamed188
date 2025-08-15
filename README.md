@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/7JfqXxB/coding-freak.gif" alt="Banner" width="800"/>
+  <img src="https://i.ibb.co/7JfqXxB/coding-freak.gif" alt="Banner" width="400" height = "400"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sara Mohamed</h1>
