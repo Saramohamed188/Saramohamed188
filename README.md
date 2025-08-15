@@ -1,7 +1,8 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/7JfqXxB/coding-freak.gif" alt="Banner" width="200" height = "200"/>
-</p>
+
+<a href='https://github.com/samadpls/Programing-Gifs/blob/main/public/gifs/programming.gif'>
+<img align='right' src='https://programing-gifs.vercel.app/' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
+
 
 <h1 align="center">Hi 👋, I'm Sara Mohamed</h1>
 <h3 align="center">Data Analyst & Machine Learning Enthusiast</h3>
