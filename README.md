@@ -1,6 +1,6 @@
 <!-- Banner -->
 
-<a href='https://github.com/samadpls/Programing-Gifs/blob/main/public/gifs/programming.gif'>
+<a href='https://github.com/samadpls/Programing-Gifs/blob/main/public/gifs/program%201.gif'>
 <img align='right' src='https://programing-gifs.vercel.app/' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
 
 
